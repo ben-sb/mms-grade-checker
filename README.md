@@ -1,5 +1,5 @@
 # mms
-Python 3 program to detect when new feedback and grades are uploaded to MMS.
+Program I made a long time ago to detect when new feedback and grades are uploaded to MMS. Was written before Microsoft login and 2FA was added so re-authorising after sessions expire isn't supported.
 
 **Fill out config.json:**
 * sessionCookie - your JSESSIONID cookie
